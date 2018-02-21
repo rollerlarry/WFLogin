@@ -1,0 +1,12 @@
+E:\LearnProgram\C#\C# - Exercise\C# - WinForm\Login\Login\bin\Debug\Login.exe.config
+E:\LearnProgram\C#\C# - Exercise\C# - WinForm\Login\Login\bin\Debug\Login.exe
+E:\LearnProgram\C#\C# - Exercise\C# - WinForm\Login\Login\bin\Debug\Login.pdb
+E:\LearnProgram\C#\C# - Exercise\C# - WinForm\Login\Login\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\LearnProgram\C#\C# - Exercise\C# - WinForm\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+E:\LearnProgram\C#\C# - Exercise\C# - WinForm\Login\Login\obj\Debug\Login.Form1.resources
+E:\LearnProgram\C#\C# - Exercise\C# - WinForm\Login\Login\obj\Debug\Login.Properties.Resources.resources
+E:\LearnProgram\C#\C# - Exercise\C# - WinForm\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+E:\LearnProgram\C#\C# - Exercise\C# - WinForm\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+E:\LearnProgram\C#\C# - Exercise\C# - WinForm\Login\Login\obj\Debug\Login.exe
+E:\LearnProgram\C#\C# - Exercise\C# - WinForm\Login\Login\obj\Debug\Login.pdb
+E:\LearnProgram\C#\C# - Exercise\C# - WinForm\Login\Login\obj\Debug\Login.frmLoading.resources
